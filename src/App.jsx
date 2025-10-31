@@ -10,7 +10,7 @@ function App() {
   };
 
   const changeMessage = () => {
-    setMessage("Experience the Power of Royal Enfield ⚡");
+    setMessage("Experience the Power of Royal Enfield");
   };
    useEffect(() => {
     console.log("Message updated:", message);
